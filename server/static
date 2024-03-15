@@ -1,0 +1,7 @@
+your_project_directory/
+│
+├── your_flask_script.py
+├── static/
+│   └── result_image.jpg
+└── templates/
+    └── index.html
